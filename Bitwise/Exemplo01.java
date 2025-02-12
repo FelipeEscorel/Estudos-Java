@@ -1,5 +1,3 @@
-package secao7;
-
 import java.util.Scanner;
 
 public class Exemplo01 {
