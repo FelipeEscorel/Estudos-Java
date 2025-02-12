@@ -1,5 +1,3 @@
-package secao7;
-
 public class OperadoresBitwise {
 
 	public static void main(String[] args) {
