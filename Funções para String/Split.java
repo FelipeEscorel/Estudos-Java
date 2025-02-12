@@ -1,5 +1,3 @@
-package secao7;
-
 public class Split {
 
 	public static void main(String[] args) {
